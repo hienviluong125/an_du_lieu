@@ -22,10 +22,10 @@ tuy nhiên ở phạm vị seminar này, nhóm em chỉ sử dụng phương ph�
 3. Gộp tất cả chuỗi giải được thành một chuỗi cuối cùng
 
 ##### Đánh giá:
-Tính vô hình: Tốt
-Tính bền vững: Không tốt
-Sức chứa: Tốt
+- Tính vô hình: Tốt
+- Tính bền vững: Không tốt
+- Sức chứa: Tốt
 
 ##### Ưu, nhược:
-Ưu: Do video là tập hợp nhiều khung hình nên có thể nhúng được rất nhiều bit mà không làm thay đổi đáng kể các điểm ảnh
-Nhược: Phần mềm các định dạng video phổ biến đều có mất mát khiến ta không thể giải đầy đủ bit ( file video lossless có dung lượng rất cao )
+- Ưu: Do video là tập hợp nhiều khung hình nên có thể nhúng được rất nhiều bit mà không làm thay đổi đáng kể các điểm ảnh
+- Nhược: Phần mềm các định dạng video phổ biến đều có mất mát khiến ta không thể giải đầy đủ bit ( file video lossless có dung lượng rất cao )
